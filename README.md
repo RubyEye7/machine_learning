@@ -1,4 +1,4 @@
-# Machine Learning Journey 🚀
+# Machine Learning Journey
 
 I am learning Machine Learning! 
 
@@ -17,5 +17,3 @@ This repository contains my exploration and practice with various machine learni
 - Building intuition for when to use different approaches
 
 ---
-
-*Happy learning!* 🌟 
